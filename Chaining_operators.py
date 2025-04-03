@@ -1,4 +1,4 @@
-a = 5
-b = 10
-c = 15
+a = int(input("Num: "))
+b = int(input("Num: "))
+c = int(input("Num: "))
 print (a < b <= c)
