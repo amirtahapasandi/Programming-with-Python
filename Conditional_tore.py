@@ -1,4 +1,4 @@
-purchase_amount = int(input("How mush is your purchase? "))
+purchase_amount = int(input(""))
 if purchase_amount > 50000:
     discount_amount = (purchase_amount // 5)
     new_amount = purchase_amount - discount_amount
